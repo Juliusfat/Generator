@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="d9aaedc5-8ecf-4add-b0ec-ede9b44ab080" name="apache" url="http://localhost/generator/">
+        <fileTransfer port="0" mountedRoot="D:\wamp64\bin\apache\apache2.4.27" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>
